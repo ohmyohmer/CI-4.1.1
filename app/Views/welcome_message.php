@@ -323,6 +323,3 @@
 </body>
 </html>
 <?php echo 'This is from: '.gethostname(); ?>
-<?php
- echo "-".$_SERVER['HTTP_HOST']; 
-?>
