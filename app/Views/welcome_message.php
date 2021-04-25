@@ -322,3 +322,4 @@
 
 </body>
 </html>
+<?php echo 'This is from: '.gethostname(); ?>
