@@ -322,4 +322,4 @@
 
 </body>
 </html>
-<?php echo 'This is from: '.gethostname(); ?>
+<?php echo 'This is <strong>'.$_SERVER['HTTP_HOST'].'</strong>'; ?>
