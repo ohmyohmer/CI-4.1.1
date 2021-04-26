@@ -322,4 +322,3 @@
 
 </body>
 </html>
-<?php echo 'This is <strong>'.$_SERVER['HTTP_HOST'].'</strong>'; ?>
